@@ -1,19 +1,20 @@
-# vue-cli
+# Мой сайт
 
-## Project setup
-```
-npm install
-```
+## Идеи
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### У каждой карточки товара свои атрибуты по категориям
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Например: 
+языки программирования - php, js итд
+Wordpres
+Vue
+итд
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Регистрация
+
+Несколько форм, с разным (или одинаковым) функционалом, с разным (или одинаковым) дизайном. 
+Можно зарегаться или войти через любую на выбор
+
+### Страница работы
+
+Отображение тегов, ссылки картинки описания
