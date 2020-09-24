@@ -7,27 +7,27 @@
   border-radius: 30px;
 
   // default btn
-  &.btnDefaul {
+  &.btn-defaul {
     color: #ffffff;
     border: 1px solid #333333;
     background-color: #333333;
   }
 
   // primiry btn
-  &.btnPrimary {
+  &.btn-primary {
     color: #ffffff;
     border: 1px solid #494ce8;
     background-color: #494ce8;
   }
 
   // danger btn
-  &.btnDanger {
+  &.btn-danger {
     color: #ffffff;
     border: 1px solid hsl(0, 48%, 48%);
     background-color: #b53f3f;
   }
 
-  &.btnWhite {
+  &.btn-white {
     color: #333333;
     border: 1px solid #ffffff;
     background-color: #ffffff;
